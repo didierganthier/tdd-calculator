@@ -6,4 +6,16 @@ class Calculator
     def subtract (x, y)
         x - y
     end
+
+    def multiply (x, y)
+        x * y
+    end
+
+    def divide (x, y)
+        x / y
+    end
+
+    def modulo (x, y)
+        x % y
+    end
 end
